@@ -5,7 +5,7 @@
     <validators>
         <CodeSniffer>
             <rule>
-                <directory>src/phpcs</directory>
+                <directory>.coding-standards/vendor/cmhook/phpcs-symfony/.coding-standards/phpcs</directory>
             </rule>
         </CodeSniffer>
     </validators>

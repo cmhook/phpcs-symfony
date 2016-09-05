@@ -8,5 +8,5 @@
     <description>Commithook Symfony2 standard</description>
 
     <!-- Include the whole Symfony2 standard -->
-    <rule ref="../../../escapestudios/symfony2-coding-standard/Symfony2" />
+    <rule ref="../../../../escapestudios/symfony2-coding-standard/Symfony2" />
 </ruleset>
