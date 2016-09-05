@@ -1,0 +1,8 @@
+{
+  "name": "cmhook/phpcs-symfony",
+  "type": "library",
+  "description": "PHPCS Symfony standards for andkirby/commithook",
+  "minimum-stability": "stable",
+  "prefer-stable": true,
+  "license": "GPL-3.0"
+}
