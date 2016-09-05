@@ -4,5 +4,8 @@
   "description": "PHPCS Symfony standards for andkirby/commithook",
   "minimum-stability": "stable",
   "prefer-stable": true,
-  "license": "GPL-3.0"
+  "license": "GPL-3.0",
+  "require-dev": {
+    "escapestudios/symfony2-coding-standard": "~2.0"
+  }
 }
